@@ -11,6 +11,6 @@ The program has the following feature:
   - See the list of the best strikers of the season of a specific leage.
 
 ## Futere implementation
-- [] Show the ranking of the league
-- [] Better data visualization
-- [] Better code structure
+- [ ] Show the ranking of the league
+- [ ] Better data visualization
+- [ ] Better code structure
