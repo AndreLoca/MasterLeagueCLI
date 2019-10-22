@@ -6,11 +6,11 @@ This software use the [football-data](https://www.football-data.org) API to get 
 The program has the following feature:
   - See all the live match;
   - See the live match for a specific league;
-  - See the result of the current matchday of a specific league;
+  - See the result of the current matchday for a specific league;
   - See a matchday of a specific league (past and future);
-  - See the list of the best strikers of the season of a specific leage.
+  - See the list of the best strikers of the season for a specific leage.
 
-## Futere implementation
+## Future implementation
 - [ ] Show the ranking of the league
 - [ ] Better data visualization
 - [ ] Better code structure
