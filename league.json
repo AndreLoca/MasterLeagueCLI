@@ -1,0 +1,52 @@
+{
+    "league": [
+        {
+            "name": "Brazilian Division One",
+            "code": "BSA"
+        },
+        {
+            "name": "Premiere League",
+            "code": "PL"
+        },
+        {
+            "name": "Championship",
+            "code": "ELC"
+        },
+        {
+            "name": "Champions League",
+            "code": "CL"
+        },
+        {
+            "name": "European Championships",
+            "code": "EC"
+        },
+        {
+            "name": "France League 1",
+            "code": "FL1"
+        },
+        {
+            "name": "Bundesliga",
+            "code": "BL1"
+        },
+        {
+            "name": "Italy Serie A",
+            "code": "SA"
+        },
+        {
+            "name": "Eredivise",
+            "code": "DED"
+        },
+        {
+            "name": "Portuguese Primera Division",
+            "code": "PPL"
+        },
+        {
+            "name": "Primera Division",
+            "code": "PD"
+        },
+        {
+            "name": "World Cup",
+            "code": "WC"
+        }
+    ]
+}
