@@ -9,3 +9,8 @@ The program has the following feature:
   - See the result of the current matchday of a specific league;
   - See a matchday of a specific league (past and future);
   - See the list of the best strikers of the season of a specific leage.
+
+## Futere implementation
+- [] Show the ranking of the league
+- [] Better data visualization
+- [] Better code structure
